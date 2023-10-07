@@ -1,6 +1,6 @@
 <!-- (This is a comment) INSTRUCTIONS: Go through this page and fill out any **bolded** entries with their correct values.-->
 
-# AND101 Project 2 - Kotlin Debug-a-thonl
+# Face Filter
 
 ## Summary
 
